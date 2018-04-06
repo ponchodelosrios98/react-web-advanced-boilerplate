@@ -8,4 +8,20 @@ This React-Web Project, contains the most sophisticated tools to develop a react
 * [Sagas]
 * [Immutable.JS]
 
-### `npm start`
+## Quick Overview
+
+```
+npm i react-web-advanced-boilerplate
+```
+
+or clone the repo
+
+```
+git clone https://github.com/ponchodelosrios98/react-web-advanced-boilerplate.git
+```
+
+```
+Change the root folder name
+Change the package.json project name
+npm start
+```
