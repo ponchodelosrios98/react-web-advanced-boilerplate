@@ -1,0 +1,31 @@
+@import 'style/_colors.scss';
+@import 'style/_variables.scss';
+
+.home-view-container {
+  padding-top: 40px;
+
+  .header {
+    .text-div {
+      padding: $regular-view-padding;
+      text-align: center;
+
+      h1 {
+        margin-bottom: 0;
+        color: $brand-color;
+        font-size: $main-text-size;
+      }
+
+      p {
+        width: 50%;
+        margin-left: 25%;
+        margin-bottom: 0;
+        font-size: $text-body-size;
+        color: $lighter-text;
+      }
+
+      .important {
+        font-size: $section-header-size;
+      }
+    }
+  }
+}
