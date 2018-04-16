@@ -1,6 +1,6 @@
 {
-  "name": "blooders-web",
-  "version": "0.1.0",
+  "name": "react-web-advanced-boilerplate",
+  "version": "1.0.0",
   "dependencies": {
     "antd": "^3.4.1",
     "node-sass-chokidar": "^1.2.2",

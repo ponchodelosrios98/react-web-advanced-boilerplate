@@ -1,8 +1,1 @@
 @import url(~antd/dist/antd.css);
-.view-container {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%; }
-
-body {
-  background: #F5F5F5; }
