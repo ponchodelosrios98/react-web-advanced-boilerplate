@@ -12,14 +12,12 @@ This React-Web Project, contains the most sophisticated tools to develop a react
 
 ```
 npm i react-web-advanced-boilerplate
-rm -rf .git
 ```
 
 or clone the repo
 
 ```
 git clone https://github.com/ponchodelosrios98/react-web-advanced-boilerplate.git
-rm -rf .git
 ```
 
 ```
