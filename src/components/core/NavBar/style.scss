@@ -1,0 +1,21 @@
+@import 'style/_colors.scss';
+@import 'style/_variables.scss';
+
+.navbar {
+  h2 {
+    color: $strong-color;
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+
+  .collapse {
+    .navbar-nav {
+      .nav-item {
+        a {
+          display: inline-block;
+          color: $lighter-color;
+        }
+      }
+    }
+  }
+}

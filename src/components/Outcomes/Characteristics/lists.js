@@ -1,0 +1,13 @@
+export default [
+  'There is shared control in the classroom; that is, the students have a say in the learning process and in the curriculum, within reason. The teacher relinquishes some of the power to the students. Why? At all ages students want to feel independent and as though they have a say in what they are learning and doing. It motivates them, gives them feelings of competence, and helps them buy into the program.',
+  'The teacher needs to work both as a facilitator and a teacher. In facilitating learning, the teacher helps students reach their educational goals, but does not do it for them.',
+  "The teacher must establish an atmosphere of trust and respect for students as human beings. Students should not be criticized for their interests or their attire. If they want to wear pants that look like they are falling off, respect their right to do so. When they are twenty, they won't want to do it.",
+  "The teacher must believe in the student's ability to achieve. Few people use even 50% of their brain capacity according to biological research. Most students don't know how to use their brains and others are simply too lazy. Given the right motivation and stimulation, almost any student can achieve especially if there is a teacher who is encouraging.",
+  'The curriculum must be relevant to real life and the students must be able to see the connection. Authentic learning experiences are the best, but if that is not possible, then the teacher should make the connections to real life visible to the students.',
+  'The teacher should model the behavior that he/she expects from the students.',
+  'Students will live up to the expectations of the teacher; if the teacher expects excellence, then the students work up to the level expected.',
+  'The teacher should exhibit passion for the subject or passion for teaching or both. Passion makes the students interested in and excited about the subject. Who wants to learn from a deadbeat?',
+  'Instruction needs to be individualized and in an effective learning community it should be. Each member is doing something different and each member relies on the next member for support. Students individualize instruction with each other and the teacher works individually with students who are working on separate projects Large group instruction should also be tailored to the needs of the group and the group should buy into the need for this type of instruction.',
+  'Feelings of community are fostered by students having a common goal, similar classroom experience, after school activities occasionally, field trips occasionally, meals together, group t-shirt.',
+  'Teacher must been seen by students as fair, knowledgeable, unbiased, willing to help, and easily approached.',
+];

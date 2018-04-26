@@ -1,1 +1,27 @@
 @import url(~antd/dist/antd.css);
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Roboto:300");
+body {
+  padding-bottom: 100px; }
+  body h1, body h2, body h3, body h4 {
+    font-family: 'Montserrat'; }
+  body .page-subtitle {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 15px; }
+  body .page-title {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 15px; }
+  body p {
+    font-family: 'Roboto';
+    font-weight: 200; }
+  body .ant-tabs-nav .ant-tabs-tab:hover {
+    color: #ff8800; }
+  body .ant-tabs-nav .ant-tabs-tab-active {
+    color: #ff8800 !important;
+    font-weight: 500; }
+  body .ant-tabs-ink-bar {
+    background-color: #ff8800; }

@@ -8,7 +8,9 @@ import ReduxThunk from 'redux-thunk';
 import reducers from './redux/reducers';
 import sagas from './redux/sagas';
 
+import Navbar from './components/core/NavBar';
 import Home from './components/views/Home';
+import Outcomes from './components/views/Outcomes';
 import './style/core.css';
 
 const App = () => {
@@ -24,9 +26,13 @@ const App = () => {
   return (
     <Provider store={store}>
       <BrowserRouter>
-        <Switch>
-          <Route exact path="/" component={Home} />
-        </Switch>
+        <div>
+          <Navbar />
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route exact path="/outcomes" component={Outcomes} />
+          </Switch>
+        </div>
       </BrowserRouter>
     </Provider>
   );
